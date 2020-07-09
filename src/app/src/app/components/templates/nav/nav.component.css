@@ -1,0 +1,16 @@
+.example-spacer {
+    flex: 1 1 auto;
+    display: flex;
+}
+
+.side-example {
+    max-height: 10px;
+}
+
+.img-example {
+    padding: 0 14px;
+}
+
+.example-icon {
+    padding: 0 14px;
+}
